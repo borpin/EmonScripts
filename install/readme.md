@@ -80,7 +80,7 @@ To restart the installation:
 ./main.sh
 ```
 
-See explanation and settings in installation configuration file here: [config.ini](https://github.com/openenergymonitor/EmonScripts/blob/stable/install/config.ini)
+See explanation and settings in installation configuration file here: [config.ini](https://github.com/openenergymonitor/EmonScripts/blob/stable/install/emonsd.config.ini)
 
 ## Run Scripts Individually
 
